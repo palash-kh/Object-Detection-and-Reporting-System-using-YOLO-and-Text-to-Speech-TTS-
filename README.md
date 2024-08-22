@@ -1,0 +1,2 @@
+# Object-Detection-and-Reporting-System-using-YOLO-and-Text-to-Speech-TTS-
+This Python script utilizes the YOLOv3 model for object detection and text-to-speech (TTS) conversion to report the detected objects. The script captures an image from the webcam, detects objects in the image using YOLOv3, determines their location relative to the center of the image, and then reports the detected objects using TTS.
